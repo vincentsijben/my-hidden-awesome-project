@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+body { background-color: brown; 
+background-image: url(https://media.tenor.com/B2S75qxm07UAAAAM/jo-bonten-i-can-put-my-hand-through-it.gif);
+background-size:10px;
+}
+
+img {
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+p { color: pink;}
+p#speciaal {
+    color: lime;
+}
+p.classnaam {
+
+}
